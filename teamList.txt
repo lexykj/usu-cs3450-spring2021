@@ -1,4 +1,4 @@
-Bradley Payne (Bradley or Brad)
+X	Bradley Payne (Bradley or Brad)
 X	Autumn L Arbon
 X	Ethan Taylor Bailey
 X	Caleb Evan Barton
@@ -17,10 +17,10 @@ X	Nathan Andrew Holst
 X	Palani Ralph Johnson
 X	Brandon T Jolley
 X	Sarah Christine Jones
-X	Spencer D Kasteler
+Spencer D Kasteler
 X	Peyton Christophor Kiel
 X	Alex Craig Kinnear
-	Bryson Kimball Meiling	(Bryson Meiling)
+	Bryson Kimball Meiling	(Bryson Meiling)	
 X	Nathan Gibbons Merrill
 X	Jay Buddy Peterson
 X	Andrew Derk Rasmussen
@@ -36,7 +36,7 @@ X	Kevin Thomas
 X	Max Curtis Thomas
 X	Alex R Thurston
 X	Derek Matthew Ward
-Cole Randl Webb	(Cole)
+X	Cole Randl Webb
 X	Jeremy Andrew Young
 X	Late Add
 X	Late Add
