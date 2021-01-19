@@ -20,7 +20,7 @@ X	Sarah Christine Jones
 X	Spencer D Kasteler	
 X	Peyton Christophor Kiel	
 X	Alex Craig Kinnear	
-X	Bryson Kimball Meiling	
+	Bryson Kimball Meiling	(Bryson Meiling)
 X	Nathan Gibbons Merrill	
 X	Jay Buddy Peterson	
 X	Andrew Derk Rasmussen	
