@@ -7,7 +7,7 @@ This README has links to resources that can serve as a starting place for questi
 
 [Github Documentation](https://docs.github.com/en)
 
-[Good tool for making diagrams](draw.io)
+[Good tool for making diagrams](https://app.diagrams.net)
 
 [Adding collaboraters to GitHub repo](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
 
