@@ -1,0 +1,3 @@
+Spencer Kasteler
+Linux, nvim, gcc/g++/gdb
+C/C++
