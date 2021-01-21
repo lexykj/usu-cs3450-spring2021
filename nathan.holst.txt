@@ -1,0 +1,3 @@
+Nathan Holst
+Python is my current favorite language
+I enjoy using the Jetbrains family of IDE
