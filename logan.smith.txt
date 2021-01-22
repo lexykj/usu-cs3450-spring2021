@@ -1,0 +1,3 @@
+Name: Logan Smith
+Favorite Coding Environment: VIM
+Favorite Language: Python
