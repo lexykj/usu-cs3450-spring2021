@@ -19,12 +19,12 @@ X	Brandon T Jolley
 Sarah Christine Jones (Sarah)
 Spencer D Kasteler
 Peyton Christophor Kiel (Peyton)
-X	Alex Craig Kinnear
-Bryson Kimball Meiling	(Bryson Meiling)
+Alex Craig Kinnear (Alex)
+	Bryson Kimball Meiling	(Bryson Meiling)	
 Nathan Gibbons Merrill (Nate)
 X	Jay Buddy Peterson
 Andrew Derk Rasmussen (Andrew)
-X	Jontay Benjamin Reaves
+Jontay Benjamin Reaves
 X	Austin Gene Reeve
 Ben Jacob Richards
 Kate Rose Sargent (Kate)
@@ -35,9 +35,10 @@ X	Jordan D Taylor
 Kevin Thomas (Kevin)
 X	Max Curtis Thomas
 Alex R Thurston
-X	Derek Matthew Ward
+Derek Matthew Ward (Derek)
 X	Cole Randl Webb
 Jeremy Andrew Young (Jeremy)
+Noah J Hammons
 Anne Marie Jetton (Anne)
 X	Late Add
 X	Late Add
